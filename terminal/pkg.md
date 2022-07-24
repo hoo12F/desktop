@@ -8,3 +8,4 @@
         - Curl
         - Git
         - Bat
+        - Discord.py
