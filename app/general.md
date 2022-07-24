@@ -14,3 +14,5 @@
 - Media
   - Guilded (optional)
   - Discord
+- **Productivity**
+  - Notion
