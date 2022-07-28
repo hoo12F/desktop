@@ -1,0 +1,16 @@
+# Extensions
+- **General**
+  - Vim
+  - Prettier
+  - filesize
+  - Markdown Previewer
+- **Web Dev**
+  - Live Server
+  - Live Preview
+  - Auto Rename Tag
+  - Auto Close Tag
+- **Backend**
+  - Python
+- **Github**
+  - Gitlens (optional)
+  - GitHub Pull Requests and Issues
