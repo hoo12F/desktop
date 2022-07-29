@@ -9,3 +9,4 @@
         - Git
         - Bat
         - Discord.py
+        - nyancat
