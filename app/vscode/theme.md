@@ -2,7 +2,7 @@
 
 - **.vscode-color-theme**
    - Atom One Dark
-   - Dracula Monokai (Not Sure)
+   - Andromeda (main)
    - One Dark Pro
 - **.vscode-icons**
    - Material Icons
