@@ -42,5 +42,5 @@ $ winget install JanDeDobbeleer.OhMyPosh -s winget
 8. Now choose a theme. The themes are stored in `scoop/oh-my-posh/themes/theme.omp.json`, though you can look at the themes [here](https://ohmyposh.dev/docs/themes) or go on the [oh-my-posh github](https://github.com/JanDeDobbeleer/oh-my-posh/tree/main/themes)
 > $PROFILE doesn't exist? run this command: New-Item -Path $PROFILE -Type File -Force 
 9. now, you have to edit your `$PROFILE`. If you have vscode installed, type in `code $PROFILE`, and copy and paste `oh-my-posh init pwsh | Invoke-Expression` in it.
-10. now put this in the `$PROFILE`: `oh-my-posh init pwsh --config ~/.jandedobbeleer.omp.json | Invoke-Expression`
+10. now put this in the `$PROFILE`: `oh-my-posh init pwsh --config ~/.yourthemepath.omp.json | Invoke-Expression`
 **UNFINISHED**
