@@ -1,5 +1,8 @@
+<p align="center">
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/woman-technologist_1f469-200d-1f4bb.png">
+</p>
 <h1 align="center">
-config
+Desktop
 </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Google%20Chrome-DD5144?style=for-the-badge&logo=GoogleChrome&logoColor=white">&nbsp;&nbsp;&nbsp;
