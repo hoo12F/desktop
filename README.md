@@ -1,4 +1,9 @@
-# config
+<h1 align="center">
+config
+</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white">
+</p>
 stuff on my desktop.
 
 ## OS
@@ -12,3 +17,8 @@ stuff on my desktop.
 + **Keyboard**
   - Keychron C1 (Blue Switch)
   - Keychron C1 (Red Switch)
+## Terminal
+### shell
+<img src="https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2018/09/Powershell_256.png" height="50px" width="50px" valign="middle"> <img src="https://img.shields.io/badge/win pwsh-main-9cf" valign="middle">&nbsp;&nbsp;<img src="https://img.shields.io/badge/oh my posh-informational" valign="middle">
+
+Powershell (**Oh-My
