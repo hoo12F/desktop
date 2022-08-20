@@ -1,5 +1,5 @@
 # Vscode Settings
-- Settings (`ctrl + ,`)
+- Settings (<kbd>ctrl</kbd> + <kbd>,</kbd>)
   - Cursor
      - Smooth Cursor
      - Word Wrap: On
