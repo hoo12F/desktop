@@ -21,6 +21,8 @@ config
   - Keychron C1 (Red Switch)
 ## Terminal
 ### shell
-<img src="https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2018/09/Powershell_256.png" height="50px" width="50px" valign="middle"> <img src="https://img.shields.io/badge/win pwsh-main-9cf" valign="middle">&nbsp;&nbsp;<img src="https://img.shields.io/badge/oh my posh-informational" valign="middle">
-
-Powershell (**Oh-My
+<img src="https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2018/09/Powershell_256.png" height="50px" width="50px" valign="middle"> <img src="https://img.shields.io/badge/win pwsh-main-375BD2" valign="middle">&nbsp;&nbsp;<img src="https://img.shields.io/badge/oh my posh-1c2133" valign="middle">
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" height="50px" width="50px" valign="middle"> <img src="https://img.shields.io/badge/pwsh-sub-29334C" valign="middle">&nbsp;&nbsp;<img src="https://img.shields.io/badge/oh my posh-1c2133" valign="middle">
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/en/e/ef/Command_prompt_icon_%28windows%29.png" height="50px" width="50px" valign="middle"> <img src="https://img.shields.io/badge/cmd prompt-not used-242424" valign="middle">
