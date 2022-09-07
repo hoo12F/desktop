@@ -4,6 +4,7 @@
   - Prettier
   - filesize
   - Markdown Previewer
+  - Better Comments
 - **Web Dev**
   - Live Server
   - Live Preview
