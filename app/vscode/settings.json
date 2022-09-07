@@ -1,0 +1,10 @@
+{
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "smooth",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.editor.enablePreview": false,
+    "terminal.integrated.gpuAcceleration": "off",
+    "workbench.colorTheme": "Atom One Dark"
+}
