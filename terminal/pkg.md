@@ -11,4 +11,4 @@
         - Discord.py
         - nyancat
 - **other**
- - oh-my-posh
+   - oh-my-posh
