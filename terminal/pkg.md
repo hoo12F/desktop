@@ -10,3 +10,5 @@
         - Bat
         - Discord.py
         - nyancat
+- **other**
+ - oh-my-posh
