@@ -5,14 +5,15 @@
   - Figma Desktop
 - **Games**
   - Roblox
-  - Genshin
 - **Customize**
   - Translucent TB
 - Web Browsers
   - Chrome
-  - Firefox (optional)
+  - Brave
 - Media
   - Guilded (optional)
   - Discord
+  - Messenger
+  - Zoom
 - **Productivity**
   - Notion
