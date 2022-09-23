@@ -9,5 +9,5 @@
 - **Version Control**
    - Git
 - **General**
-   - Powershell
+   - Powershell Core
    - Windows Terminal
