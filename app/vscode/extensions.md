@@ -5,6 +5,8 @@
   - filesize
   - Markdown Previewer
   - Better Comments
+  - Marquee
+  - Codesnap
 - **Web Dev**
   - Live Server
   - Live Preview
