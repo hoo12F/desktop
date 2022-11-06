@@ -7,6 +7,7 @@
   - Better Comments
   - Marquee
   - Codesnap
+  - Error Lens
 - **Web Dev**
   - Live Server
   - Live Preview
