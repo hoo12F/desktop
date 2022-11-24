@@ -3,8 +3,8 @@
   - Vim
   - Prettier
   - filesize
-  - Markdown Previewer
-  - Better Comments
+  - Markdown Preview Enhanced
+  - Better Comment
   - Marquee
   - Codesnap
   - Error Lens
